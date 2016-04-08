@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentagerman05unkngoog/monumentagerman05unkngoog_0008.png"; bbox 0 0 4568 6396; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 179 873 2051 1968">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 179 873 2051 1968">
+     <span class='ocr_line' id='line_1_1' title="bbox 400 873 1832 1108; baseline 0 -30"><span class='ocrx_word' id='word_1_1' title='bbox 400 876 539 1079; x_wconf 89' lang='lat' dir='ltr'><strong>IL.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 595 873 1231 1101; x_wconf 82' lang='lat' dir='ltr'><strong>IIIEEOEIIVEIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1294 873 1832 1108; x_wconf 81' lang='lat' dir='ltr'><strong>EEEIQVIIIE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 179 1287 2051 1528; baseline -0.001 -32"><span class='ocrx_word' id='word_1_4' title='bbox 179 1289 537 1496; x_wconf 85' lang='lat' dir='ltr'><strong>EIESSII</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 599 1288 980 1494; x_wconf 81' lang='lat' dir='ltr'><strong>AEMILII</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1043 1287 1541 1528; x_wconf 81' lang='lat' dir='ltr'><strong>DEIEEEIII</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1607 1289 2051 1495; x_wconf 81' lang='lat' dir='ltr'><strong>EIEMIIIII</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 180 1704 2047 1968; baseline 0.001 -57"><span class='ocrx_word' id='word_1_8' title='bbox 180 1706 573 1968; x_wconf 82' lang='lat' dir='ltr'><strong>EVGENII</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 634 1705 1085 1912; x_wconf 79' lang='lat' dir='ltr'><strong>IOEEIIINI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1147 1704 1567 1912; x_wconf 85' lang='lat' dir='ltr'><strong>EPISEEPI</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1630 1705 2047 1912; x_wconf 81' lang='lat' dir='ltr'><strong>EIEMIIIII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 787 2041 1446 2222">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 787 2041 1446 2222">
+     <span class='ocr_line' id='line_1_4' title="bbox 787 2041 1446 2222; baseline -0.003 -2"><span class='ocrx_word' id='word_1_12' title='bbox 787 2043 901 2220; x_wconf 87' lang='lat' dir='ltr'><strong>EI</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 961 2041 1446 2222; x_wconf 80' lang='lat' dir='ltr'><strong>EPISTVLAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2288 6388">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2288 6388">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2288 6388; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2288 6388; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
